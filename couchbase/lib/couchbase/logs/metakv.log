@@ -1,0 +1,13 @@
+[metakv:debug,2016-12-22T09:02:08.824Z,ns_1@127.0.0.1:simple_store_xdcr_ckpt_data<0.256.0>:simple_store:init:114]Creating Table: xdcr_ckpt_data
+[metakv:debug,2016-12-22T09:02:09.251Z,ns_1@127.0.0.1:<0.275.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /remoteCluster/. Continuous = false
+[metakv:debug,2016-12-22T09:02:09.254Z,ns_1@127.0.0.1:<0.275.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /remoteCluster/. Continuous = false
+[metakv:debug,2016-12-22T09:02:09.257Z,ns_1@127.0.0.1:<0.275.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /replicationSpec/. Continuous = false
+[metakv:debug,2016-12-22T09:02:09.262Z,ns_1@127.0.0.1:<0.280.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /GlobalConfiguration/. Continuous = true
+[metakv:debug,2016-12-22T09:02:09.262Z,ns_1@127.0.0.1:<0.279.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /remoteCluster/. Continuous = true
+[metakv:debug,2016-12-22T09:02:09.263Z,ns_1@127.0.0.1:<0.278.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /replicationSpec/. Continuous = true
+[metakv:debug,2016-12-22T09:02:09.263Z,ns_1@127.0.0.1:<0.277.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /bucketSettings/. Continuous = true
+[metakv:debug,2016-12-22T09:02:09.267Z,ns_1@127.0.0.1:<0.281.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /InternalSettings/. Continuous = true
+[metakv:debug,2016-12-22T09:02:17.033Z,ns_1@127.0.0.1:<0.405.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/settings/. Continuous = true
+[metakv:debug,2016-12-22T09:02:17.033Z,ns_1@127.0.0.1:<0.405.0>:menelaus_metakv:output_kv:165]Sent /indexing/settings/config rev: g2wAAAABaAJtAAAAIGNjMDIyOTEzMmY3YzdmZDNlZTQzYzc1YTM5MDc0YzJhaAJhBG4FAJgS0NEOag==
+[metakv:debug,2016-12-22T09:02:17.153Z,ns_1@127.0.0.1:<0.400.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /. Continuous = true
+[metakv:debug,2016-12-22T09:02:17.153Z,ns_1@127.0.0.1:<0.400.0>:menelaus_metakv:output_kv:165]Sent /indexing/settings/config rev: g2wAAAABaAJtAAAAIGNjMDIyOTEzMmY3YzdmZDNlZTQzYzc1YTM5MDc0YzJhaAJhBG4FAJgS0NEOag==
